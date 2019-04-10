@@ -1,7 +1,7 @@
 # hello-world
 my study project
 
-我加的中文字
+我加的中文字， I add English words！
 
 Hi humans:
 
